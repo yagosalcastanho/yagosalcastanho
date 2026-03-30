@@ -1,8 +1,6 @@
 ## Olá!, Eu sou o Yago 🤙
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagocastanhosal@gmail.com)
 
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagosalcastanho&show_icons=true&theme=radical)
-
 ## Tecnologias que eu uso no meu dia 😁
 
 <div style="display: inline_block"><br/>
