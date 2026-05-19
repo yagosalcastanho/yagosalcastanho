@@ -1,8 +1,8 @@
-# Olá/Hello! Eu sou/I'm Yago Castanho
+# Olá/Hello! Eu sou/I'm Yago Castanho 👨‍💻
 
 ### Data Analyst | Data Engineering Enthusiast | Python & SQL Developer
 
-I have been working in the Data field for 3 years, with experience in data analysis, process automation, ETL pipeline development, and data transformation solutions to support strategic decision-making.
+A Brazilian dev working in the Data field for 3 years, with experience in data analysis, process automation, ETL pipeline development, and data transformation solutions to support strategic decision-making.
 
 Currently focused on:
 - Data Engineering
@@ -11,7 +11,31 @@ Currently focused on:
 - Analytics & Business Intelligence
 - Large-Scale Data Processing
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+PySpark+%7C+Airflow;ETL+Pipelines+%7C+Data+Warehouse;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Data+Solutions" />
+
+<br><br>
+<div align="center">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagosalcastanho&theme=tokyonight"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagosalcastanho&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagosalcastanho&theme=tokyonight"/>
+
+</div>
+
+<br><br>
+
+</div>
+
 
 # 🚀 Tech Stack
 
