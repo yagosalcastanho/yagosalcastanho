@@ -1,31 +1,94 @@
-## Olá!, eu sou o Yago 🤙
+# 👋 Hello! I'm Yago Castanho
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagocastanhosal@gmail.com)
+### Data Analyst | Data Engineering Enthusiast | Python & SQL Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+I have been working in the Data field for 3 years, with experience in data analysis, process automation, ETL pipeline development, and data transformation solutions focused on supporting strategic decision-making.
 
-## Tecnologias que eu uso no meu dia 😁
+Currently focused on:
+- Data Engineering
+- ETL Pipelines
+- Data Automation
+- Analytics & Business Intelligence
+- Large-Scale Data Processing
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="hmt15" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div><br/>
+---
 
-## Tecnologias que estou aprendendo 🫡
+# 🚀 Tech Stack
 
-<div style="display: inline_block"><br/> 
-  <img align="center" alt="hmt15" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div><br/>
+## 📊 Data & Analytics
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="PySpark" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
+</div>
 
+---
 
-Apaixonado por tecnologia, viciado em programar 🤓
+## ⚙️ Data Engineering
+<div style="display: inline_block">
+  <img align="center" alt="Airflow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg">
+  <img align="center" alt="Kafka" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+---
+
+## 📈 Business Intelligence
+<div style="display: inline_block">
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019.png">
+</div>
+
+---
+
+# 🧠 Core Skills
+
+- SQL & Relational Databases
+- Python Automation
+- ETL Pipelines
+- Data Warehouse
+- Data Modeling
+- Data Processing
+- Dashboard Development
+- Process Automation
+- Business Intelligence
+- Big Data Fundamentals
+
+---
+
+# 📌 Featured Projects
+
+🚧 Currently building projects involving:
+
+- ETL Pipelines with Airflow & Docker
+- Data Processing with PySpark
+- Kafka Streaming Pipelines
+- Analytical Dashboards with Power BI
+- Data Warehouse Modeling
+
+---
+
+# 📊 GitHub Stats
+
+<div>
+  <a href="https://github.com/yagosalcastanho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagosalcastanho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosalcastanho&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+
+---
+
+# 🌎 Connect with me
+
+<div> 
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:yagocastanhosal@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
