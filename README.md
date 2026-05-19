@@ -1,8 +1,8 @@
-# 👋 Hello! I'm Yago Castanho
+# Olá/Hello! Eu sou/I'm Yago Castanho
 
 ### Data Analyst | Data Engineering Enthusiast | Python & SQL Developer
 
-I have been working in the Data field for 3 years, with experience in data analysis, process automation, ETL pipeline development, and data transformation solutions focused on supporting strategic decision-making.
+I have been working in the Data field for 3 years, with experience in data analysis, process automation, ETL pipeline development, and data transformation solutions to support strategic decision-making.
 
 Currently focused on:
 - Data Engineering
@@ -68,16 +68,6 @@ Currently focused on:
 - Kafka Streaming Pipelines
 - Analytical Dashboards with Power BI
 - Data Warehouse Modeling
-
----
-
-# 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/yagosalcastanho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagosalcastanho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagosalcastanho&layout=compact&langs_count=10&theme=dracula"/>
-</div>
 
 ---
 
