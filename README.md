@@ -13,7 +13,7 @@ Currently focused on:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+PySpark+%7C+Airflow;ETL+Pipelines+%7C+Data+Warehouse;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Data+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+PySpark+%7C+Airflow;ETL+Pipelines+%7C+Data+Warehouse;Kafka+%7C+Docker+%7C+AWS;df+%3D+load_data(;...SyntaxError%3A+expected+%27)%27;df+%3D+load_data();++--Agora+sim!;Building+Scalable+Data+Solutions" />
 
 <br><br>
 <div align="center">
