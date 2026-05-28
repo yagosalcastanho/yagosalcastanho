@@ -13,7 +13,7 @@ Currently focused on:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=120&speed=35&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+PySpark+%7C+Airflow;ETL+Pipelines+%7C+Data+Warehouse;Kafka+%7C+Docker+%7C+AWS;df+%3D+load_data(*;df+%3D+load_data(%26;df+%3D+load_data(_;df+%3D+load_data();Building+Scalable+Data+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=50&speed=30&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+PySpark+%7C+Airflow;ETL+Pipelines+%7C+Data+Warehouse;Kafka+%7C+Docker+%7C+AWS;df+%3D+load_data(*;df+%3D+load_data(%26;df+%3D+load_data(_;df+%3D+load_data();Building+Scalable+Data+Solutions" />
 
 <br><br>
 <div align="center">
